@@ -47,7 +47,7 @@ function initScrollReveal() {
 // sendiri), bagian rendering di bawahnya tidak perlu diubah.
 // =========================================================
 const PHOTO_COUNT = 164;      // total foto di galeri (patokan 50-70)
-const BATCH_SIZE = 16;       // jumlah foto yang dimuat tiap klik "Muat foto lainnya"
+const BATCH_SIZE = 20;       // jumlah foto yang dimuat tiap klik "Muat foto lainnya"
 
 // beberapa rasio ukuran foto: landscape, potrait, dan kotak,
 // supaya galeri terlihat natural seperti foto hasil jepretan asli HP/kamera
